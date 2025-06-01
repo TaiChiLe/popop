@@ -1,6 +1,4 @@
-import { Avatar, Button, Divider } from 'antd';
-
-import { UserOutlined } from '@ant-design/icons';
+import { Button, Divider } from 'antd';
 
 export default function Header() {
   return (
