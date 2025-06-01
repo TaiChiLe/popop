@@ -49,7 +49,7 @@ export default function Body(props: IconSliderProps) {
             <span className="ml-2">John Doe</span>
           </div>
         </div>
-        <div align="center">
+        <div className="flex justify-center">
           <Image
             src="https://static.independent.co.uk/2025/02/18/10/40/Kia-EV6.png"
             className="mt-3 max-h-40"
@@ -78,7 +78,7 @@ export default function Body(props: IconSliderProps) {
             <span className="ml-2">Katie bond</span>
           </div>
         </div>
-        <div align="center">
+        <div className="flex justify-center">
           <Image
             src="https://cdn.mall.adeptmind.ai/https%3A%2F%2Fmultimedia.bbycastatic.ca%2Fmultimedia%2Fproducts%2F500x500%2F163%2F16310%2F16310766_1.jpg_large.webp"
             className="mt-3 max-h-40"
@@ -110,7 +110,7 @@ export default function Body(props: IconSliderProps) {
             <span className="ml-2">James bond</span>
           </div>
         </div>
-        <div align="center">
+        <div className="flex justify-center">
           <Image
             src="https://cdn.britannica.com/62/234462-050-6CDEB78F/color-wheels-RYB-RGB.jpg"
             className="mt-3 max-h-40 w-100"
@@ -144,7 +144,7 @@ export default function Body(props: IconSliderProps) {
             <span className="ml-2">Jane Doe</span>
           </div>
         </div>
-        <div align="center">
+        <div className="flex justify-center">
           <Image
             src="https://freshsensations.com.au/cdn/shop/products/FruitBox.png?v=1643769480"
             className="mt-3 max-h-40 w-100"
